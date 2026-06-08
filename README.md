@@ -1,6 +1,7 @@
 # Pharma Sales Demand Analysis (2014–2019)
 **Tools:** Microsoft Excel · Power BI · DAX  
 **Dataset:** [Pharmacy Sales Data — Kaggle](https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data)
+**Dashboard PDF:** [View Dashboard](Pharma_sales.pdf)
 
 ---
 
