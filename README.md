@@ -25,16 +25,16 @@ Data-driven recommendations to help the procurement team determine restocking ti
 ## 📊 Dashboard Preview
 
 ### Overview
-![Overview](screenshots/overview.png)
+![Overview](/overview.png)
 
 ### Seasonal Pattern Analysis
-![Seasonal Pattern](screenshots/seasonal_pattern.png)
+![Seasonal Pattern](/seasonal_pattern.png)
 
 ### Annual Trend Analysis
-![Annual Trend](screenshots/annual_trend.png)
+![Annual Trend](/annual_trend.png)
 
 ### Anomaly & Insights
-![Anomaly & Insights](screenshots/anomaly_insights.png)
+![Anomaly & Insights](/anomaly_insights.png)
 
 ---
 
@@ -104,21 +104,13 @@ All 8 categories declined simultaneously in 2017, with N02BE hit hardest (-30%) 
 ```
 pharma-sales-analysis/
 │
-├── data/
-│   └── salesdaily.xlsx
-│
-├── analysis/
-│   └── Brief.docx              # Full analysis documentation (EDA, findings, recommendations)
-│
-├── dashboard/
-│   └── pharma_sales_analysis.pbix
-│
-├── screenshots/
-│   ├── overview.png
-│   ├── seasonal_pattern.png
-│   ├── annual_trend.png
-│   └── anomaly_insights.png
-│
+│   salesdaily.xlsx
+│   Brief.docx              # Full analysis documentation (EDA, findings, recommendations)
+│   pharma_sales_analysis.pbix
+│   overview.png
+│   seasonal_pattern.png
+│   annual_trend.png
+│   anomaly_insights.png
 └── README.md
 ```
 
